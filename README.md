@@ -16,7 +16,7 @@
 ## 🔗 Links Importantes
 
 - 💻 **Repositório do Código:** [GitHub](https://github.com/Annyyzinha/projeto-final-processamento-imagens)
-- 🎥 **Vídeo de Apresentação:** [Clique aqui para assistir]([https://youtu.be/4JhbA8_G_U4])
+- 🎥 **Vídeo de Apresentação:** [Clique aqui para assistir](https://youtu.be/4JhbA8_G_U4)
 - 📁 **Dataset Utilizado:** [Skin Cancer ISIC (9 classes) no Kaggle](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic)
 
 ---
